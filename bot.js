@@ -1331,4 +1331,4 @@ client.setInterval(function() {
  
 
  
-client.login("NDczNTEwODg0MTc0NTk0MDU4.DtDZbQ.9qL_nnY-fOxbskCQRRc8L759PyM");
+client.login(process.env.BOT_TOKEN);
